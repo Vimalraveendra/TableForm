@@ -8,8 +8,24 @@ body {
      padding:0;
      min-width:100vh;
 }
+h2{
+    text-align:center;
+    font-size:1.5em;
+}
+
+.table-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+table{
+    width:70%;
+}
+
 
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
+    text-align:center ;
 }
