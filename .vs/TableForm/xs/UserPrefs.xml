@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8C6A1A45-AA6C-424D-8E24-4A64485D1327}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TableForm/Pages/_Host.cshtml">
+    <Files>
+      <File FileName="TableForm/Pages/Index.razor" Line="6" Column="5" />
+      <File FileName="TableForm/wwwroot/Style.css" Line="15" Column="2" />
+      <File FileName="TableForm/Pages/_Host.cshtml" Line="17" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TableForm" expanded="True">
+            <Node name="TableForm" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="_Host.cshtml" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TableForm PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+﻿
+*{
+    box-sizing:border-box;
+}
+
+body {
+    margin:0;
+     padding:0;
+     min-width:100vh;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
